@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+#block {
+    z-index: 0;
+}
+
+.player{
+    z-index: 1;
+}
