@@ -3,10 +3,8 @@ body{
     padding:0;
 }
 
-#block {
-    z-index: 0;
-}
-
-.player{
-    z-index: 1;
+#canvas{
+    display: block;
+    align-items: center;
+    justify-content: center;
 }
